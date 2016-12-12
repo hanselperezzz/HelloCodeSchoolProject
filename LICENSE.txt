@@ -1,3 +1,5 @@
+new line
+
 MIT License
 
 Copyright (c) 2016 Code School
