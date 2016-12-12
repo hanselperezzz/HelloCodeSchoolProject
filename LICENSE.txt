@@ -1,5 +1,6 @@
 new line
 second new line
+third new "weird" line
 
 MIT License
 
